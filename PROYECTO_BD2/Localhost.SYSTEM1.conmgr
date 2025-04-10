@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Localhost.SYSTEM1"
+  DTS:DTSID="{DFEAA9B7-2762-4806-B822-894543F934B7}"
+  DTS:CreationName="ADO.NET:System.Data.OracleClient.OracleConnection, System.Data.OracleClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=Localhost;User ID=SYSTEM;Unicode=True;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABJOMFKViS0u3Brpr1mhQCAAAAAACAAAAAAAQZgAAAAEAACAAAADc2LHLB0ShGqXVHfpZCWi04kPRDelCgIvLRtuFjloIcgAAAAAOgAAAAAIAACAAAADpvYWvph/0YqXgWdWVxispyjVVcnyXDQX04oiHyGNbs4AAAAD5yAjX/sKbVjNix0R0vVWHRf33DhWjEJW2rU5flCAR9Em9scVbCGgopw/HLQ0tW+QlvL1iI52tnN9jUnI6/uX5Qx7UZoi1lAmszuoOSUKJ3jWyT8FGDCg7vQLJ4TwWi8ojUK1K8d8Wa7TzV/MvegVdS0oPu7n5NvrfVIA3BPP/P0AAAADMpkyp6U7uI5FcGDHucodnE0rAk+rZ5KqmavqwfCmm7VSxn18ZuX7ekjHRo11UT39bREsKsBiEzr0SQ1VY/a+G</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
